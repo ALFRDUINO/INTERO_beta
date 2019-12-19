@@ -1,0 +1,8 @@
+trig 500
+amp_global 0.500
+compression_global 1.000
+transposition_global 0.000
+dur_MILLISEC 0.000
+dur_MIN 0.000
+dur_SEC 10.000
+freq_reference 200.000
